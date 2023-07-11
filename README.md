@@ -3,8 +3,7 @@ Hi there 👋 I'm Rafael Timoteo
 
 I am a student of Information Systems at the University of São Paulo. My main goal currently is to develop my computer skills.
 
-- 🌱 I’m currently studying Information Systems
-- 📫 How to reach me: [rafa.timoteo200@gmail.com](mailto:rafa.timoteo200@gmail.com)
+- How to reach me: [rafa.timoteo200@gmail.com](mailto:rafa.timoteo200@gmail.com)
 
 <a href="https://www.github.com/rafael-timoteo" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/rafael-timoteo?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
